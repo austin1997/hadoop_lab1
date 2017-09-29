@@ -1,0 +1,1 @@
+yarn jar *.jar edu.rosehulman.zhaiz.CommmonFriend /lab/lab1/task2/input /lab/lab1/task2/output

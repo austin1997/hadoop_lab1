@@ -1,0 +1,1 @@
+yarn jar *.jar edu.rosehulman.zhaiz.MinTemperature /lab/lab1/task1/input /lab/lab1/task1/output

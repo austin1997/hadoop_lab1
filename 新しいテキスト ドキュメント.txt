@@ -1,0 +1,1 @@
+ruby task3.rb -i /lab/lab1/task3 -o lab/lab1/task3 -f file.txt
